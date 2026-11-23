@@ -1,81 +1,10 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-24",
  "sources": [
   "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
   "https://riderchris.com/thailand-bike-week/"
  ],
  "events": [
-  {
-   "id": "lungteng15",
-   "name": "Lungteng Rider – 15th Anniversary",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "place": "Soi Srinakarin-Romklao, Lat Krabang, Bangkok",
-   "lat": 13.74,
-   "lng": 100.735,
-   "country": "th",
-   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "ซอยศรีนครินทร์ร่มเกล้า การเคหะร่มเกล้า ลาดกระบัง"
-  },
-  {
-   "id": "vbt19",
-   "name": "Vintage Bike Thailand (VBT19)",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "place": "Srinakarin Dam, Kanchanaburi",
-   "lat": 14.4089,
-   "lng": 99.1258,
-   "country": "th",
-   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "เขื่อนศรีนครินทร์ กาญจนบุรี"
-  },
-  {
-   "id": "ayutthaya14",
-   "name": "Ayutthaya Bike Week #14",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "place": "Asian Highway × Route 356, Ayutthaya",
-   "lat": 14.30194,
-   "lng": 100.61133,
-   "country": "th",
-   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION"
-  },
-  {
-   "id": "phangnga5",
-   "name": "Phang-Nga Group – 5th Anniversary",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "place": "42 Station, Khok Kloi, Takua Thung, Phang Nga",
-   "lat": 8.27,
-   "lng": 98.3,
-   "country": "th",
-   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "โคกกลอย ตะกั่วทุ่ง พังงา"
-  },
-  {
-   "id": "crbikenight",
-   "name": "Chiang Rai Bike Night",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "place": "90s Singha Park, Mae Korn, Chiang Rai",
-   "lat": 19.864,
-   "lng": 99.747,
-   "country": "th",
-   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "สิงห์ปาร์ค เชียงราย"
-  },
-  {
-   "id": "dino30",
-   "name": "Dinosaurs Springer Club – 30th Anniversary",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "place": "Phla Road, Ban Chang, Rayong",
-   "lat": 12.69,
-   "lng": 101.07,
-   "country": "th",
-   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "ตำบลพลา บ้านฉาง ระยอง"
-  },
   {
    "id": "ahd2026",
    "name": "Asia Harley Days 2026",
@@ -101,30 +30,6 @@
    "q": "ตำบลบางนอน เมืองระนอง"
   },
   {
-   "id": "waipung2026",
-   "name": "Wai Pung Rider Night Party",
-   "start": "2026-11-28",
-   "end": "2026-11-28",
-   "place": "Climax789, Map Yang Phon (Bowin), Pluak Daeng, Rayong",
-   "lat": 12.98,
-   "lng": 101.13,
-   "country": "th",
-   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "Climax789 มาบยางพร ปลวกแดง ระยอง"
-  },
-  {
-   "id": "roadrunner17",
-   "name": "Road Runner – 17th Anniversary",
-   "start": "2026-11-28",
-   "end": "2026-11-28",
-   "place": "Wat Laem Fa Pha, Phra Samut Chedi, Samut Prakan",
-   "lat": 13.53,
-   "lng": 100.55,
-   "country": "th",
-   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "วัดแหลมฟ้าผ่า พระสมุทรเจดีย์"
-  },
-  {
    "id": "adamantium6",
    "name": "Adamantium Night Party & Charity 3",
    "start": "2026-11-28",
@@ -147,6 +52,30 @@
    "country": "th",
    "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
    "q": "แก่งน้ำต้อน ขอนแก่น"
+  },
+  {
+   "id": "roadrunner17",
+   "name": "Road Runner – 17th Anniversary",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "place": "Wat Laem Fa Pha, Phra Samut Chedi, Samut Prakan",
+   "lat": 13.53,
+   "lng": 100.55,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "วัดแหลมฟ้าผ่า พระสมุทรเจดีย์"
+  },
+  {
+   "id": "waipung2026",
+   "name": "Wai Pung Rider Night Party",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "place": "Climax789, Map Yang Phon (Bowin), Pluak Daeng, Rayong",
+   "lat": 12.98,
+   "lng": 101.13,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "Climax789 มาบยางพร ปลวกแดง ระยอง"
   },
   {
    "id": "wolfrider15",
@@ -185,30 +114,6 @@
    "q": "ไร่ทอฝัน ป่าแมต แพร่"
   },
   {
-   "id": "sunmoon2",
-   "name": "Sun & Moon #2 (The Saint & Metalknight MC)",
-   "start": "2026-12-05",
-   "end": "2026-12-05",
-   "place": "Central Airport Plaza, Chiang Mai",
-   "lat": 18.768,
-   "lng": 98.975,
-   "country": "th",
-   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "Central Chiang Mai Airport"
-  },
-  {
-   "id": "plaingam5",
-   "name": "Plai Ngam – 5th Anniversary",
-   "start": "2026-12-05",
-   "end": "2026-12-05",
-   "place": "Ban Khon Buri Suksa school, Mueang Yang, Nakhon Ratchasima",
-   "lat": 15.42,
-   "lng": 102.9,
-   "country": "th",
-   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "โรงเรียนบ้านครบุรีศึกษา เมืองยาง นครราชสีมา"
-  },
-  {
    "id": "apache30",
    "name": "Apache – 30th Anniversary",
    "start": "2026-12-05",
@@ -219,6 +124,30 @@
    "country": "th",
    "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
    "q": "อำเภอจักราช นครราชสีมา"
+  },
+  {
+   "id": "bangsaothong",
+   "name": "Bang Sao Thong group charity",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "place": "Ban Khok Sung school, Pla Pak, Nakhon Phanom",
+   "lat": 17.2,
+   "lng": 104.53,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "โรงเรียนบ้านโคกสูง ตำบลโคกสูง อำเภอปลาปาก นครพนม"
+  },
+  {
+   "id": "fatherday",
+   "name": "Father’s Day bikers gathering (2nd Army Region)",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "place": "Suranaree Task Force, Kantharalak, Si Sa Ket",
+   "lat": 14.65,
+   "lng": 104.65,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "อำเภอกันทรลักษ์ ศรีสะเกษ"
   },
   {
    "id": "inferno",
@@ -233,16 +162,40 @@
    "q": "คลองลาน กำแพงเพชร"
   },
   {
-   "id": "fatherday",
-   "name": "Father’s Day bikers gathering (2nd Army Region)",
+   "id": "iun13",
+   "name": "I-Un Haeng Khun Khao #13 (charity)",
    "start": "2026-12-05",
    "end": "2026-12-05",
-   "place": "Suranaree Task Force, Kantharalak, Si Sa Ket",
-   "lat": 14.65,
-   "lng": 104.65,
+   "place": "Ban Mae Jok Fa school, Thung Phueng, Chae Hom, Lampang",
+   "lat": 18.8,
+   "lng": 99.66,
    "country": "th",
    "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "อำเภอกันทรลักษ์ ศรีสะเกษ"
+   "q": "โรงเรียนบ้านแม่จอกฟ้า ตำบลทุ่งผึ้ง อำเภอแจ้ห่ม ลำปาง"
+  },
+  {
+   "id": "plaingam5",
+   "name": "Plai Ngam – 5th Anniversary",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "place": "Ban Khon Buri Suksa school, Mueang Yang, Nakhon Ratchasima",
+   "lat": 15.42,
+   "lng": 102.9,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "โรงเรียนบ้านครบุรีศึกษา เมืองยาง นครราชสีมา"
+  },
+  {
+   "id": "sunmoon2",
+   "name": "Sun & Moon #2 (The Saint & Metalknight MC)",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "place": "Central Airport Plaza, Chiang Mai",
+   "lat": 18.768,
+   "lng": 98.975,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "Central Chiang Mai Airport"
   },
   {
    "id": "navy21",
@@ -269,16 +222,16 @@
    "q": "Lion Cafe Resort Hang Dong"
   },
   {
-   "id": "huahin20",
-   "name": "Hua Hin Bike Week #20",
-   "start": "2026-12-11",
-   "end": "2026-12-12",
-   "place": "Soi 102 car park, behind Bluport, Hua Hin",
-   "lat": 12.5395,
-   "lng": 99.964,
+   "id": "siwao",
+   "name": "Siw Ao Thailand charity",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "place": "Ban Raphao school, Tha Sawang, Mueang Surin",
+   "lat": 14.87,
+   "lng": 103.47,
    "country": "th",
    "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "Bluport Hua Hin"
+   "q": "โรงเรียนบ้านระเภาว์ ตำบลท่าสว่าง อำเภอเมือง สุรินทร์"
   },
   {
    "id": "blackdevil24",
@@ -305,6 +258,18 @@
    "q": "Chang International Circuit Buriram"
   },
   {
+   "id": "huahin20",
+   "name": "Hua Hin Bike Week #20",
+   "start": "2026-12-11",
+   "end": "2026-12-12",
+   "place": "Soi 102 car park, behind Bluport, Hua Hin",
+   "lat": 12.5395,
+   "lng": 99.964,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "Bluport Hua Hin"
+  },
+  {
    "id": "blackangel36",
    "name": "Black Angel – 36th Anniversary",
    "start": "2026-12-12",
@@ -329,18 +294,6 @@
    "q": "วัดลาดหวาย บางบ่อ สมุทรปราการ"
   },
   {
-   "id": "nonbiker2026",
-   "name": "Nonthaburi Biker Night Party 2026",
-   "start": "2026-12-26",
-   "end": "2026-12-26",
-   "place": "Wat Salikhophitaram, Pak Kret, Nonthaburi",
-   "lat": 13.93,
-   "lng": 100.46,
-   "country": "th",
-   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "วัดสาลีโขภิตาราม ปากเกร็ด"
-  },
-  {
    "id": "airforce24",
    "name": "Airforce Rider – 24th Anniversary",
    "start": "2026-12-26",
@@ -353,16 +306,16 @@
    "q": "สวนคัยวะ2 หินตั้ง นครนายก"
   },
   {
-   "id": "pathum5",
-   "name": "Pathum Thani Bike Night #5",
-   "start": "2027-01-09",
-   "end": "2027-01-09",
-   "place": "Future Park Rangsit",
-   "lat": 13.989,
-   "lng": 100.617,
+   "id": "nonbiker2026",
+   "name": "Nonthaburi Biker Night Party 2026",
+   "start": "2026-12-26",
+   "end": "2026-12-26",
+   "place": "Wat Salikhophitaram, Pak Kret, Nonthaburi",
+   "lat": 13.93,
+   "lng": 100.46,
    "country": "th",
    "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "Future Park Rangsit"
+   "q": "วัดสาลีโขภิตาราม ปากเกร็ด"
   },
   {
    "id": "companion19",
@@ -387,6 +340,42 @@
    "country": "th",
    "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
    "q": "อำเภอนาแก นครพนม"
+  },
+  {
+   "id": "pathum5",
+   "name": "Pathum Thani Bike Night #5",
+   "start": "2027-01-09",
+   "end": "2027-01-09",
+   "place": "Future Park Rangsit",
+   "lat": 13.989,
+   "lng": 100.617,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "Future Park Rangsit"
+  },
+  {
+   "id": "ponglao28",
+   "name": "Pong Lao Chao Kwian Club – 28th Anniversary",
+   "start": "2027-01-09",
+   "end": "2027-01-09",
+   "place": "Phu Long Mok ATV Camp, Cha-om, Kaeng Khoi, Saraburi",
+   "lat": 14.4416,
+   "lng": 101.0924,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "ภูหลงหมอก ATV Camp ชะอม แก่งคอย สระบุรี"
+  },
+  {
+   "id": "ramunn",
+   "name": "Ramunn Phra Pradaeng gathering",
+   "start": "2027-01-09",
+   "end": "2027-01-09",
+   "place": "Mahamit, Suk Sawat Rd, Lat Luang, Phra Pradaeng, Samut Prakan",
+   "lat": 13.66,
+   "lng": 100.52,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "ร้านมาหามิตร ถนนสุขสวัสดิ์ พระประแดง สมุทรปราการ"
   },
   {
    "id": "selai",
@@ -449,18 +438,6 @@
    "q": "ลานพระอาทิตย์ อบจ.กระบี่"
   },
   {
-   "id": "tanglak19",
-   "name": "Tang Lak Ratchaburi – 19th Anniversary",
-   "start": "2027-01-23",
-   "end": "2027-01-23",
-   "place": "Rai Tang Lak, Tha Sao, Tha Maka, Kanchanaburi",
-   "lat": 13.92,
-   "lng": 99.77,
-   "country": "th",
-   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "โรงเรียนวัดดอนสามง่าม ท่ามะกา"
-  },
-  {
    "id": "hellman10",
    "name": "Hellman Rider – 10th Anniversary",
    "start": "2027-01-23",
@@ -497,16 +474,16 @@
    "q": "โรงเรียนวัดบันไดม้า ปากช่อง"
   },
   {
-   "id": "khlongngae4",
-   "name": "Khlong Ngae Bike Week #4",
-   "start": "2027-01-29",
-   "end": "2027-01-30",
-   "place": "Khlong Ngae, Sadao, Songkhla",
-   "lat": 6.62,
-   "lng": 100.39,
+   "id": "tanglak19",
+   "name": "Tang Lak Ratchaburi – 19th Anniversary",
+   "start": "2027-01-23",
+   "end": "2027-01-23",
+   "place": "Rai Tang Lak, Tha Sao, Tha Maka, Kanchanaburi",
+   "lat": 13.92,
+   "lng": 99.77,
    "country": "th",
    "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "คลองแงะ สะเดา สงขลา"
+   "q": "โรงเรียนวัดดอนสามง่าม ท่ามะกา"
   },
   {
    "id": "chumphon12",
@@ -521,16 +498,28 @@
    "q": "อ่างเก็บน้ำหนองใหญ่ ชุมพร"
   },
   {
-   "id": "nokpa20",
-   "name": "Nok Pa – 20th Anniversary",
-   "start": "2027-01-30",
+   "id": "khlongngae4",
+   "name": "Khlong Ngae Bike Week #4",
+   "start": "2027-01-29",
    "end": "2027-01-30",
-   "place": "Best Bushi Do, Sriracha, Chonburi",
-   "lat": 13.17,
-   "lng": 100.95,
+   "place": "Khlong Ngae, Sadao, Songkhla",
+   "lat": 6.62,
+   "lng": 100.39,
    "country": "th",
    "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "ชากยายจีน ศรีราชา"
+   "q": "คลองแงะ สะเดา สงขลา"
+  },
+  {
+   "id": "american20",
+   "name": "Amerikang – 20th Anniversary",
+   "start": "2027-01-30",
+   "end": "2027-01-30",
+   "place": "Suan Khaiwa 2, Nakhon Nayok",
+   "lat": 14.26,
+   "lng": 101.26,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "สวนคัยวะ2 นครนายก"
   },
   {
    "id": "brotherhood10",
@@ -545,18 +534,6 @@
    "q": "RM Park Salaya"
   },
   {
-   "id": "thailao1",
-   "name": "Thai-Lao Bike Week #1",
-   "start": "2027-01-30",
-   "end": "2027-01-30",
-   "place": "Isan Park, Nong Khai",
-   "lat": 17.87,
-   "lng": 102.74,
-   "country": "th",
-   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "Isan Park Nong Khai"
-  },
-  {
    "id": "khuensudin20",
    "name": "Khuen Su Din – 20th Anniversary",
    "start": "2027-01-30",
@@ -569,16 +546,28 @@
    "q": "นิคมสร้างตนเอง ลพบุรี"
   },
   {
-   "id": "american20",
-   "name": "Amerikang – 20th Anniversary",
+   "id": "nokpa20",
+   "name": "Nok Pa – 20th Anniversary",
    "start": "2027-01-30",
    "end": "2027-01-30",
-   "place": "Suan Khaiwa 2, Nakhon Nayok",
-   "lat": 14.26,
-   "lng": 101.26,
+   "place": "Best Bushi Do, Sriracha, Chonburi",
+   "lat": 13.17,
+   "lng": 100.95,
    "country": "th",
    "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "สวนคัยวะ2 นครนายก"
+   "q": "ชากยายจีน ศรีราชา"
+  },
+  {
+   "id": "thailao1",
+   "name": "Thai-Lao Bike Week #1",
+   "start": "2027-01-30",
+   "end": "2027-01-30",
+   "place": "Isan Park, Nong Khai",
+   "lat": 17.87,
+   "lng": 102.74,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "Isan Park Nong Khai"
   },
   {
    "id": "bloodline5",
@@ -677,18 +666,6 @@
    "q": "ศาลาด่าน เกาะลันตา"
   },
   {
-   "id": "lammun1",
-   "name": "Lam Mun Party Night #1",
-   "start": "2027-02-27",
-   "end": "2027-02-27",
-   "place": "Ban Mao Nong Ruea school, Kanthararom, Si Sa Ket",
-   "lat": 15.1,
-   "lng": 104.58,
-   "country": "th",
-   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "อำเภอกันทรารมย์ ศรีสะเกษ"
-  },
-  {
    "id": "khemthit",
    "name": "Khemthit Rider charity",
    "start": "2027-02-27",
@@ -699,6 +676,18 @@
    "country": "th",
    "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
    "q": "โรงเรียนบ้านโป่งแมลงวัน นครราชสีมา"
+  },
+  {
+   "id": "lammun1",
+   "name": "Lam Mun Party Night #1",
+   "start": "2027-02-27",
+   "end": "2027-02-27",
+   "place": "Ban Mao Nong Ruea school, Kanthararom, Si Sa Ket",
+   "lat": 15.1,
+   "lng": 104.58,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "อำเภอกันทรารมย์ ศรีสะเกษ"
   },
   {
    "id": "surat2027",
@@ -725,6 +714,17 @@
    "q": "โรงเรียนบางจานวิทยา เพชรบุรี"
   },
   {
+   "id": "wayfarers5",
+   "name": "Wayfarers 41 MC Thailand – 5th Anniversary",
+   "start": "2027-03-06",
+   "end": "2027-03-06",
+   "place": "Kodang Stadium, Khlong Toei Port, Bangkok",
+   "lat": 13.71276,
+   "lng": 100.56268,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION"
+  },
+  {
    "id": "whitelions19",
    "name": "White Lions – 19th Anniversary",
    "start": "2027-03-06",
@@ -737,16 +737,16 @@
    "q": "บางน้ำเปรี้ยว ฉะเชิงเทรา"
   },
   {
-   "id": "twogetter",
-   "name": "Two Getter MC 19th & Poseidon MC 25th",
-   "start": "2027-03-13",
+   "id": "zodiac9",
+   "name": "Zodiac MC Phuket – 9th Anniversary",
+   "start": "2027-03-12",
    "end": "2027-03-13",
-   "place": "Bang Phra municipality, Chonburi",
-   "lat": 13.21,
-   "lng": 100.96,
+   "place": "Hat Tawan Ron, Phuket",
+   "lat": 7.95,
+   "lng": 98.4,
    "country": "th",
    "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "เทศบาลเมืองบางพระ"
+   "q": "Phuket"
   },
   {
    "id": "brothersway13",
@@ -761,16 +761,16 @@
    "q": "ตลาดอาม่า 1000 สุข คลอง 7"
   },
   {
-   "id": "zodiac9",
-   "name": "Zodiac MC Phuket – 9th Anniversary",
-   "start": "2027-03-12",
+   "id": "twogetter",
+   "name": "Two Getter MC 19th & Poseidon MC 25th",
+   "start": "2027-03-13",
    "end": "2027-03-13",
-   "place": "Hat Tawan Ron, Phuket",
-   "lat": 7.95,
-   "lng": 98.4,
+   "place": "Bang Phra municipality, Chonburi",
+   "lat": 13.21,
+   "lng": 100.96,
    "country": "th",
    "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "Phuket"
+   "q": "เทศบาลเมืองบางพระ"
   },
   {
    "id": "langsuan4",
@@ -797,18 +797,6 @@
    "q": "แหลมฉบัง ศรีราชา"
   },
   {
-   "id": "seaeagle9",
-   "name": "Sea Eagle – 9th Anniversary",
-   "start": "2027-03-20",
-   "end": "2027-03-20",
-   "place": "Mueang Phuket",
-   "lat": 7.88,
-   "lng": 98.39,
-   "country": "th",
-   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "Phuket Town"
-  },
-  {
    "id": "chawang4",
    "name": "Chawang charity #4",
    "start": "2027-03-20",
@@ -821,16 +809,16 @@
    "q": "แยกควนสงสาร ฉวาง"
   },
   {
-   "id": "sukcharoen",
-   "name": "Suk Charoen Party Camp",
-   "start": "2027-03-26",
-   "end": "2027-03-28",
-   "place": "Palm garden, Ao Luek, Krabi",
-   "lat": 8.38,
-   "lng": 98.73,
+   "id": "seaeagle9",
+   "name": "Sea Eagle – 9th Anniversary",
+   "start": "2027-03-20",
+   "end": "2027-03-20",
+   "place": "Mueang Phuket",
+   "lat": 7.88,
+   "lng": 98.39,
    "country": "th",
    "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "อ่าวลึก กระบี่"
+   "q": "Phuket Town"
   },
   {
    "id": "dannok1",
@@ -845,16 +833,16 @@
    "q": "ด่านนอก สะเดา"
   },
   {
-   "id": "prachuap17",
-   "name": "Prachuap Bike Week #17",
-   "start": "2027-03-27",
-   "end": "2027-03-27",
-   "place": "Global House, Prachuap Khiri Khan",
-   "lat": 11.83,
-   "lng": 99.79,
+   "id": "sukcharoen",
+   "name": "Suk Charoen Party Camp",
+   "start": "2027-03-26",
+   "end": "2027-03-28",
+   "place": "Palm garden, Ao Luek, Krabi",
+   "lat": 8.38,
+   "lng": 98.73,
    "country": "th",
    "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "Global House Prachuap Khiri Khan"
+   "q": "อ่าวลึก กระบี่"
   },
   {
    "id": "khonphanking8",
@@ -869,16 +857,16 @@
    "q": "Bang Pa-in Resort"
   },
   {
-   "id": "southth10",
-   "name": "The South Thailand – 10th Anniversary",
-   "start": "2027-04-02",
-   "end": "2027-04-03",
-   "place": "Alongkot Resort, Khanom, Nakhon Si Thammarat",
-   "lat": 9.21,
-   "lng": 99.86,
+   "id": "prachuap17",
+   "name": "Prachuap Bike Week #17",
+   "start": "2027-03-27",
+   "end": "2027-03-27",
+   "place": "Global House, Prachuap Khiri Khan",
+   "lat": 11.83,
+   "lng": 99.79,
    "country": "th",
    "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
-   "q": "Alongkot Resort Khanom"
+   "q": "Global House Prachuap Khiri Khan"
   },
   {
    "id": "nonthaburi15",
@@ -891,6 +879,18 @@
    "country": "th",
    "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
    "q": "Nonthaburi"
+  },
+  {
+   "id": "southth10",
+   "name": "The South Thailand – 10th Anniversary",
+   "start": "2027-04-02",
+   "end": "2027-04-03",
+   "place": "Alongkot Resort, Khanom, Nakhon Si Thammarat",
+   "lat": 9.21,
+   "lng": 99.86,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "Alongkot Resort Khanom"
   },
   {
    "id": "phuket31",
@@ -989,6 +989,18 @@
    "q": "Central Nakhon Si Thammarat"
   },
   {
+   "id": "stubborn7",
+   "name": "Stubborn – 7th Anniversary",
+   "start": "2027-06-12",
+   "end": "2027-06-12",
+   "place": "Hat Chok Bang Ping, Na Di, Mueang Samut Sakhon",
+   "lat": 13.52,
+   "lng": 100.3,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "หาดโจ๊กบางปิ้ง ตำบลนาดี อำเภอเมือง สมุทรสาคร"
+  },
+  {
    "id": "aonang10",
    "name": "Ao Nang Bike Week #10",
    "start": "2027-07-02",
@@ -999,6 +1011,78 @@
    "country": "th",
    "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
    "q": "Ao Nang Krabi"
+  },
+  {
+   "id": "aoluk4035",
+   "name": "Aoluk 4035 MC Party",
+   "start": "2027-07-31",
+   "end": "2027-07-31",
+   "place": "Ban Suan Phu Phaya Resort, Ao Luek, Krabi",
+   "lat": 8.4,
+   "lng": 98.74,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "บ้านสวนภูพญารีสอร์ต อ่าวลึกเหนือ อ่าวลึก กระบี่"
+  },
+  {
+   "id": "blacktiger8",
+   "name": "The Black Tiger – 8th Anniversary",
+   "start": "2027-09-04",
+   "end": "2027-09-04",
+   "place": "Om Noi municipality, Krathum Baen, Samut Sakhon",
+   "lat": 13.7,
+   "lng": 100.31,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "เทศบาลนครอ้อมน้อย กระทุ่มแบน สมุทรสาคร"
+  },
+  {
+   "id": "sichon1",
+   "name": "Sichon Bike Charity #1",
+   "start": "2027-09-18",
+   "end": "2027-09-18",
+   "place": "Sichon, Nakhon Si Thammarat",
+   "lat": 9.0,
+   "lng": 99.9,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "อำเภอสิชล นครศรีธรรมราช"
+  },
+  {
+   "id": "krabi13",
+   "name": "Krabi Bike Week #13",
+   "start": "2027-10-08",
+   "end": "2027-10-09",
+   "place": "Lan Phra Athit, Krabi PAO",
+   "lat": 8.07,
+   "lng": 98.91,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "ลานสโมสรพระอาทิตย์ อบจ.กระบี่"
+  },
+  {
+   "id": "blacktiger9",
+   "name": "Black Tiger – 9th Anniversary",
+   "start": "2027-11-27",
+   "end": "2027-11-27",
+   "place": "Fish pier, Thai Ban, Samut Prakan",
+   "lat": 13.55,
+   "lng": 100.6,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "สะพานปลา ท้ายบ้าน สมุทรปราการ"
+  },
+  {
+   "id": "threeskulls77",
+   "name": "Three Skulls – 77th Anniversary",
+   "start": "2029-10-07",
+   "end": "2029-10-07",
+   "place": "Khao Kho, Phetchabun",
+   "lat": 16.65,
+   "lng": 101.13,
+   "country": "th",
+   "url": "https://www.facebook.com/groups/SIAM.MOTORCYCLE.ASSOCIATION",
+   "q": "เขาค้อ เพชรบูรณ์"
   }
  ]
 }
